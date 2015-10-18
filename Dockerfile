@@ -1,4 +1,5 @@
 FROM resin/rpi-raspbian:jessie
+MAINTAINER James Baxter <j.w.baxter@gmail.com>
 
 # Install wget
 RUN \
